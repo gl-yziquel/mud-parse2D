@@ -1,6 +1,8 @@
 # mud-parse2D
 
-Toying with python-parse-2d.
+Toying with [python-parse-2d][parse2d].
+
+[parse2d]: https://github.com/madman-bob/python-parse-2d
 
 Current code parse the content of a 2D text box.
 
