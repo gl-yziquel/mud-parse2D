@@ -4,16 +4,17 @@ Toying with [python-parse-2d][parse2d].
 
 [parse2d]: https://github.com/madman-bob/python-parse-2d
 
-Current code parses the content of a 2D text box.
+[Current code](src/mud_parse2D/__main__.py) parses the content of a 2D text box.
 
 There is  a dearth of parsing  toolkits for textual data  or textual programming
-languages with  a 2D layout. One  exception is `python-parse-2d`, which  seems to
+languages with a  2D layout. One exception is `python-parse-2d`,  which seems to
 work but may be,  perhaps, too simplistic for [our needs][needs].  So we need to
 check it out in some details to evaluate it.
 
 [needs]: https://github.com/madman-bob/python-parse-2d/issues/1#issue-2337951670
 
-Ideally, we would like to be able to detect two boxes randomly laid out on a page.
+Ideally, we  would like to be  able to detect two  boxes randomly laid out  on a
+page.
 
 If you know of other 2D text parsing toolkits, please let me know.
 
