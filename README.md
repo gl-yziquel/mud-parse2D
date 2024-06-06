@@ -22,13 +22,17 @@ to handle that,  but it does not build  out of the box anymore.  It is cursorily
 discussed on [reddit][toody-reddit].
 
 If  you  know of  other  2D  text parsing  toolkits,  please  let me  know.  The
-problematics relevant to 2D parsing notably include various markdown parsings;
-[markdeep][markdeep] for instance. The comonadic structure also appears in the [ascii art to unicode parsing technology][ascii-art-parse].
+problematics relevant to  2D parsing notably include  various markdown parsings;
+such as [markdeep][markdeep] for instance.  The comonadic structure also appears
+in the [ascii art to  unicode parsing technology][ascii-art-parse]. One may also
+mention the [2D language Befunge][befunge] which is indeed required to parse two
+dimensional text.
 
 [toody]: https://github.com/evincarofautumn/Toody
 [toddy-reddit]: https://www.reddit.com/r/haskell/comments/6hjsvf/requesting_feedback_on_2d_parser_combinator/
 [markdeep]: https://github.com/morgan3d/markdeep.git
 [ascii-art-parse]: https://github.com/fmthoma/ascii-art-to-unicode
+[befunge]: https://codeberg.org/catseye/Befunge-93
 
 
 ## Build system considerations
