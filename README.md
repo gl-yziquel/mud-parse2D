@@ -21,6 +21,12 @@ page.
 
 If you know of other 2D text parsing toolkits, please let me know.
 
+Update: There  is the [toody][toody]  library in Haskell  implementing comonadic
+parser combinators  for two dimentional languages,  but it doesn't build  out of
+the box anymore.
+
+[toody]: https://github.com/evincarofautumn/Toody
+
 
 ## Build system considerations
 
@@ -34,6 +40,6 @@ Type `just` for the list of commands at your disposal to manage the project.
 
 ## Not yet surveyed litterature
 
-*  Masaru   Tomita.  (1989).   *Parsing  2-Dimensional   Language*.  Proceedings
-of  the  First  International   Workshop  on  Parsing  Technologies,  414–424.
+* Masaru  Tomita. (1989). *Parsing  2-Dimensional Language*. Proceedings  of the
+First International Workshop on Parsing Technologies, 414–424.
 [link](https://aclanthology.org/W89-0243)
