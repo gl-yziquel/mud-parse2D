@@ -9,3 +9,4 @@ run:
 # Cleans up the project.
 clean:
 	rm -rf dist/
+	fd --no-ignore --type directory --hidden __pycache__ --exec rm -r {}
