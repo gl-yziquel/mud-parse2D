@@ -18,13 +18,15 @@ or  textual   programming  languages  with   a  2D  layout.  One   exception  is
 
 Ideally, we  would like to be  able to detect two  boxes randomly laid out  on a
 page. The [toody][toody] comonadic parser  combinator haskell library is claimed
-to handle that, but it does not build out of the box anymore.
+to handle that,  but it does not build  out of the box anymore.  It is cursorily
+discussed on [reddit][toody-reddit].
 
 If  you  know of  other  2D  text parsing  toolkits,  please  let me  know.  The
 problematics relevant to 2D parsing notably include various markdown parsings;
 [markdeep][markdeep] for instance. The comonadic structure also appears in the [ascii art to unicode parsing technology][ascii-art-parse].
 
 [toody]: https://github.com/evincarofautumn/Toody
+[toddy-reddit]: https://www.reddit.com/r/haskell/comments/6hjsvf/requesting_feedback_on_2d_parser_combinator/
 [markdeep]: https://github.com/morgan3d/markdeep.git
 [ascii-art-parse]: https://github.com/fmthoma/ascii-art-to-unicode
 
