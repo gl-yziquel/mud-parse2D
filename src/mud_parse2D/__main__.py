@@ -28,5 +28,4 @@ def main():
         )
     )
     token = box_tokenizer.extract_token(diagram, (0, 0))
-    print("Skeleton of mud-parse2D.")
     print(f"Extracted token: {token}")
