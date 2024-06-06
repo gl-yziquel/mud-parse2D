@@ -1,0 +1,18 @@
+[build-system]
+build-backend = "hatchling.build"
+requires = ["hatchling"]
+
+[project]
+name = "mud-parse2D"
+version = "0.0.1-alpha"
+description = "Toying around with python-parse-2d"
+authors = [{name = "Guillaume Yziquel"}]
+readme = "README.md"
+classifiers = ["Private :: Do Not Upload"]
+requires-python = ">=3.10"
+dependencies = [
+  "parse_2d >= 1"
+]
+
+[project.scripts]
+mud-parse2D = "mud_parse2D.__main__:main"
