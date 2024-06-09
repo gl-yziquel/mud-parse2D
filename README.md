@@ -4,6 +4,10 @@ Toying with [python-parse-2d][parse2d].
 
 [parse2d]: https://github.com/madman-bob/python-parse-2d
 
+Note: a [fork][parse2d-fork] of this project exists to provide a packaging of that 2D parsing library. Please use this fork as it allows importing it into the current project as a python library.
+
+[parse2d-fork]: https://github.com/gl-yziquel/python-parse-2d
+
 
 ## Context
 
