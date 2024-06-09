@@ -40,7 +40,8 @@ txtai software) seem to hit a  bottleneck: that of preprocessing the data coming
 out of ugly things  such as pdf files into something  that can be satisfactorily
 consumed by these modern artificial intelligence workflows.
 
-Incidentally, it may be interesting to develop 2D parsing technology to create more modern alternatives to things like the par formatting tool.
+Incidentally, it may  be interesting to develop 2D parsing  technology to create
+more modern alternatives to things like the par formatting tool.
 
 
 ## Build system considerations
