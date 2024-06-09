@@ -34,6 +34,8 @@ dimensional text.
 [ascii-art-parse]: https://github.com/fmthoma/ascii-art-to-unicode
 [befunge]: https://codeberg.org/catseye/Befunge-93
 
+The problematic of subtler parsing technologies able to handle 2D layout does matter inasmuch as modern artificial intelligence workflows (such as in the txtai software) seem to hit a bottleneck: that of preprocessing the data coming out of ugly things such as pdf files into something that can be satisfactorily consumed by these modern artificial intelligence workflows.
+
 
 ## Build system considerations
 
