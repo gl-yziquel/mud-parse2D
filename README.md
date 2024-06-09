@@ -29,7 +29,7 @@ mention the [2D language Befunge][befunge] which is indeed required to parse two
 dimensional text.
 
 [toody]: https://github.com/evincarofautumn/Toody
-[toddy-reddit]: https://www.reddit.com/r/haskell/comments/6hjsvf/requesting_feedback_on_2d_parser_combinator/
+[toody-reddit]: https://www.reddit.com/r/haskell/comments/6hjsvf/requesting_feedback_on_2d_parser_combinator/
 [markdeep]: https://github.com/morgan3d/markdeep.git
 [ascii-art-parse]: https://github.com/fmthoma/ascii-art-to-unicode
 [befunge]: https://codeberg.org/catseye/Befunge-93
